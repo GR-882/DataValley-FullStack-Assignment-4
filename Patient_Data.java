@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class Patient_data{
+public class PatientInfo{
     public static void main(String[] args) {
         try {
             // Step 1: Load the JDBC driver
